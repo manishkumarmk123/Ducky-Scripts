@@ -1,0 +1,1 @@
+This payload will crash any windows computer temporarily through powershell.
